@@ -2,7 +2,9 @@
 
 This repository contains a study on __Graph Neural Networks__.
 
-<center><img src="Images/Introduction/Social_Media_Graph.jpg"></center>
+<div align="center">
+  <img src="Images/Introduction/Social_Media_Graph.jpg" alt="GNN">
+</div>
 
 ## Study
 
